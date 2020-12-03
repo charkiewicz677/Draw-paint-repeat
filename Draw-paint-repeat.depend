@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607014298 source:c:\users\schar\documents\studia\c\draw-paint-repeat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
